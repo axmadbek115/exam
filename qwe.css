@@ -1,0 +1,21 @@
+.yt{
+    background-color: palevioletred; text-align: center;
+}
+.rt{
+    background-color: gray;
+}
+.nb{
+    text-align: center;
+}
+table{
+    border: 1px solid black; width: 100%;
+}
+tr{
+    text-align: center;
+}
+.pl{
+    background-color: lightgray;
+}
+.gf{
+    text-align: center; background-color: azure; border: 5px solid black;
+}
